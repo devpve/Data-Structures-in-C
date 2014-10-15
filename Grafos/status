@@ -1,0 +1,17 @@
+status
+estrutura cliente
+	- Ok
+
+funcoes.c 
+	- Conecta - OK
+	- Componentes - OK
+	- DFS - OK
+	- BFS - OK 
+	- Djikstra - Ok
+	- Kruskal
+
+grafo.c
+	- comentado - ok - REVISAR
+
+lista.c 
+	- comentado -ok
