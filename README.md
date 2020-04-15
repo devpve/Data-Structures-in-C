@@ -1,4 +1,4 @@
-UNB-ED-1-2014-Ralha
+Data Structures in C (2014/1)
 ===================
 
-Trabalhos da disciplina Estrutra de Dados do professor Ralha. 1/2014
+Programming data structures in C. 
